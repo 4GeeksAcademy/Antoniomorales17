@@ -1,7 +1,7 @@
 # Hola mundo! 🌎
-¡Hola! Soy Antonio Morales y me apasiona el desarrollo web.Me considero un programador junior capaz de hacer cosas increibles! 
+¡Hola! Soy Antonio Morales y me apasiona el desarrollo web. Me considero un programador junior capaz de hacer cosas increibles! 
 
-# Quien soy 
+# Quien soy 🧐
 Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo siempre es una satisfaccion. Atento a las nuevas tendencias-tecnologias, amante del marketing, del comercio electrónico y el desarrollo web!🌈
 
 ## Proyectos Destacados ⭐
@@ -12,7 +12,7 @@ Aplicación encargada de contestar los tickets y email de las empresas mediante 
 
 ## Tecnologías ⛏🔧
 
-- Lenguajes: Python, JavaScript
+- Lenguajes: ![Python](https://img.icons8.com/color/48/000000/python.png), ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 - Tecnologías: React, Node.js
 
 ## Contacto 📩
