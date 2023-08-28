@@ -15,7 +15,7 @@ Aplicación encargada de contestar los tickets y email de las empresas mediante 
 ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![React](https://img.icons8.com/color/48/000000/react-native.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png)  ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 ## Herramientas 🔧
-![Git](https://img.icons8.com/color/48/000000/git.png)![GitHub](https://img.icons8.com/fluent/48/000000/github.png)![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)![Insomnia](https://img.icons8.com/color/48/000000/insomnia.png)![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)![GitHub](https://img.icons8.com/fluent/48/000000/github.png)![Postman](https://img.icons8.com/color/48/000000/postman.png)![Insomnia](https://img.icons8.com/color/48/000000/insomnia.png)![Figma](https://img.icons8.com/color/48/000000/figma.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 ## Contacto 📩
 
