@@ -10,10 +10,12 @@ Me considero una persona que se atreve a nuevos desafios, aprender algo nuevo si
 Aplicación encargada de contestar los tickets y email de las empresas mediante la inteligencia artificial.
 
 
-## Tecnologías ⛏🔧
+## Tecnologías 🌠
 
-- Lenguajes: ![Python](https://img.icons8.com/color/48/000000/python.png), ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- Tecnologías: React, Node.js
+![Python](https://img.icons8.com/color/48/000000/python.png), ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)![React](https://img.icons8.com/color/48/000000/react-native.png), ![HTML5](https://img.icons8.com/color/48/000000/html-5.png), ![CSS3](https://img.icons8.com/color/48/000000/css3.png),  ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+
+## Herramientas 🔧
+![Git](https://img.icons8.com/color/48/000000/git.png),![GitHub](https://img.icons8.com/fluent/48/000000/github.png),![Postman](https://img.icons8.com/color/48/000000/postman.png),![Insomnia],![Figma](https://img.icons8.com/color/48/000000/figma.png)(https://img.icons8.com/color/48/000000/insomnia.png)![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 ## Contacto 📩
 
